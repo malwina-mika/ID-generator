@@ -15,3 +15,5 @@ npm i @malika94/random-id-generator
 const randomID = require('@malika94/random-id-generator');
 
 console.log(randomID(10));
+
+https://www.npmjs.com/package/@malika94/random-id-generator
